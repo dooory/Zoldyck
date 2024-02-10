@@ -5,7 +5,7 @@ from nextcord.ext import commands
 
 load_dotenv()
 
-TESTING_GUILD_ID = 655039890991611904
+TESTING_GUILD_ID = ID
 
 # the prefix is not used in this example
 bot = commands.Bot()
